@@ -1,2 +1,2 @@
-# mp-frontend-prod
-Sample repo created in Terraform
+# This is a prod javascript for frontend developers.
+Last modified by Manuel Patrone"
